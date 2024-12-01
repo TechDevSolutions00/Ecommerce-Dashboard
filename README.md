@@ -23,7 +23,7 @@ This project is a modern, responsive e-commerce dashboard interface built with *
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/SudeepAcharjee/ECom-Dashboard.git
+   git clone https://github.com/TechDevSolutions00/Ecommerce-Dashboard.git
    cd Ecom-Dashboard
    ```
 
